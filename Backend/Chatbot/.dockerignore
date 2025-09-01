@@ -1,0 +1,10 @@
+**/__pycache__
+**/.env
+**/.git
+**/.vscode
+Dockerfile
+.dockerignore
+*.log
+*.sqlite3
+*.md
+chroma_langchain_db/
